@@ -1,0 +1,9 @@
+.potd img {
+    width: 100%;
+}
+
+.ImageError {
+    text-align: center;
+    color: red;
+    font-size: 2rem;
+}

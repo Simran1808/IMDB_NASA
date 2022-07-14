@@ -1,0 +1,18 @@
+.container {
+    padding: 20px;
+    margin: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+} 
+
+.container img{
+    /* height: 400px; */
+    width: 100%;
+    margin: 0px 0px 20px;
+    object-fit: contain;
+}
+
+.movieData{
+    height: 90vh;
+    overflow-y: scroll;
+}
