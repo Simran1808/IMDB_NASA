@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/IMDB_NASA/static/css/main.5119108a.css",
+    "main.js": "/IMDB_NASA/static/js/main.791265b4.js",
+    "static/media/gallery.png": "/IMDB_NASA/static/media/gallery.59ac5b201a8b84a9d13e.png",
+    "index.html": "/IMDB_NASA/index.html",
+    "main.5119108a.css.map": "/IMDB_NASA/static/css/main.5119108a.css.map",
+    "main.791265b4.js.map": "/IMDB_NASA/static/js/main.791265b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5119108a.css",
+    "static/js/main.791265b4.js"
+  ]
+}
